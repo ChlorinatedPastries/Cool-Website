@@ -1,3 +1,4 @@
+HTML
 <!DOCTYPE html>
 <html lang="en-us">
 
@@ -34,3 +35,10 @@
 
 <a>href="https://www.w3schools.com/tags/tag_span.asp" </a>
 </div>
+CSS
+
+JavaScript
+
+PHP
+
+SQL
