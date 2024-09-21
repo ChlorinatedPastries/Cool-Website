@@ -1,18 +1,4 @@
 HTML
-<!DOCTYPE html>
-<html lang="en-us">
-
-<body style="background-color:#595959;">
-    <title>Welcome to stickmanadventures.site!</title>
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-</body>
-<noscript>your browser does not support JavaScript</noscript>
-<!-- code snipits -->
-
-<img src="/images/stickmanadventures.jpg">
-
-<div>
-<a href="mailto:someone@example.com">Send email
   Pastries
 
 
@@ -35,6 +21,7 @@ HTML
 
 <a>href="https://www.w3schools.com/tags/tag_span.asp" </a>
 </div>
+
 CSS
 
 JavaScript
