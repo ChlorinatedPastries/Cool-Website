@@ -1,0 +1,53 @@
+HTML
+  Pastries
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <title></title> 
+        <script src=""></script>
+    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="/comen.css">
+    </head>
+<body style="background-color:#626262;"> 
+    <link rel="icon" type="image/x-icon" href="/images/gerafics/favicon.ico">
+<noscript>your browser does not support JavaScript, sir</noscript>
+<div id="primary-nav"> 
+    <ul>
+      <li><a style="color:#50c5e9" href="/news.html">NEWS</a></li>
+   <li><a style="color:#50c5e9" href="/index.html">HOME</a></li>
+   <li><a  style="color:#50c5e9" href="/forms/formsj.htm">FORMS</a></li>
+   <li><a  style="color:#50c5e9" href="/games/ihgiygjfyf.htm">GAMES</a></li>
+   <li><a  style="color:#50c5e9" href="/extras/extras.htm">EXTRAS</a></li>
+   <li><a  style="color:#50c5e9"  href="/proxys.htm">PROXYS</a></li>
+    </ul>
+  </div>
+
+  </body>
+</html>
+    
+</a><a href="default.asp">
+    <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+    </a>
+
+    
+<h2>Image Maps</h2>
+<p>Click on the computer, the phone, or the cup of coffee to go to a new page and read more about the topic:</p>
+
+<img src="workplace.jpg" alt="Workplace" usemap="#workmap" width="400" height="379">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Cup of coffee" href="coffee.htm">
+</map>
+
+<a>href="https://www.w3schools.com/tags/tag_span.asp" </a>
+</div>
+
+CSS
+
+JavaScript
+
+PHP
+
+SQL
