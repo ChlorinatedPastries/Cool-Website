@@ -6,6 +6,15 @@
 
 }
 
+#primary-nav {
+  float:right;
+  background-color:#565656;
+  border: 4px solid #505050;
+  border-radius: 12px;
+  padding: 5px;
+  font-size: 24px;
+}
+
 #par1 {
   background-color: #505050;
   border: 3px solid hsl(199, 77%, 71%);
@@ -14,18 +23,6 @@
   padding: 5px;
   width: 600px ;
   }
-
-  #primary-nav {
-    float:right;
-    background-color:#565656;
-    border: 4px solid #505050;
-    border-radius: 12px;
-    padding: 5px;
-    font-size: 24px;
-  }
-.trtr {
-font-size: 16px ;
-}
 
 #prov{
   float:right;
@@ -38,6 +35,6 @@ font-size: 16px ;
   
 }
 #xxxx{
-  float:right;
+  float:left;
 
 }
