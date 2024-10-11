@@ -7,5 +7,5 @@ function math(){
 const x = 812;
 const z = 1716;
 let y = x * z
-document.getElementById(math).innerHTML = "uu" + y;
+document.getElementById(mathH).innerHTML = "69" + y;
 }
