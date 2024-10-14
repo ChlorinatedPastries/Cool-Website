@@ -7,7 +7,7 @@
 }
 
 #primary-nav {
-  float:right;
+  float: right;
   background-color:#565656;
   border: 4px solid #505050;
   border-radius: 12px;
@@ -25,7 +25,6 @@
   }
 
 #prov{
-  float:none;
   background-color:#565656;
   border: 4px solid #505050;
   border-radius: 12px;
