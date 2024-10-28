@@ -12,5 +12,8 @@ function Cookie(){
 const test = {hourswastedonCookiecliker:3887}
 document.getElementById("life").innerHTML = "I have " + test.hourswastedonCookiecliker + " hours wasted on Cookie cliker!" }
 
-document.querySelector("#loop").innerHTML = 
-       ["Bob ", "Alice ", "Ceaser ", "David"].sort().join(" ");
+const fruits = ["crosh","proxy","gamesite","Cookies","THE FACTORY MUST GROW", ];
+const randomIndex = Math.floor(Math.random() * fruits.length);
+const randomFruit = fruits[randomIndex];
+console.log(randomFruit);
+document.getElementById("splashtext").innerHTML = "NNNSDSDS";
