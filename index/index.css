@@ -34,12 +34,3 @@
   float:none
 }
 
-/* width:606px;width:100%;height:94px;border:none;*/
-#johnvertisement{
-  background-color:#565656;
-  border: 4px solid #505050;
-  p.double {border-style: double;}
-  border-radius: 12px;
-  width: 606px;
-  height: 94px;
-}
