@@ -33,4 +33,17 @@
   margin-right: auto;
   float:none
 }
-
+#top{
+  background-color:#565656;
+  border: 4px solid #505050;
+  border-radius: 12px;
+  padding: 5px;
+  font-size: 20px;
+  width: 600px ;
+}
+#topleft{
+  float: left; padding: 5px;
+}
+#toprite{float: right; padding: 5px;}
+#bottleft{float:left; padding: 5px;}
+#bottrite{float: right; padding: 5px;}
