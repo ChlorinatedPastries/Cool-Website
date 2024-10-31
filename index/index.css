@@ -2,10 +2,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-
-
 }
-
 #primary-nav {
   float: right;
   background-color:#565656;
@@ -14,7 +11,6 @@
   padding: 5px;
   font-size: 24px;
 }
-
 #par1 {
   background-color: #505050;
   border: 3px solid hsl(199, 77%, 71%);
@@ -23,7 +19,6 @@
   padding: 5px;
   width: 600px ;
   }
-
 #prov{
   background-color:#565656;
   border: 4px solid #505050;
@@ -31,12 +26,20 @@
   padding: 5px;
   font-size: 20px;
   width: 600px ;
-
-  
 }
 #maintxt{
   display: block;
   margin-left: auto;
   margin-right: auto;
   float:none
+}
+
+/* width:606px;width:100%;height:94px;border:none;*/
+#johnvertisement{
+  background-color:#565656;
+  border: 4px solid #505050;
+  p.double {border-style: double;}
+  border-radius: 12px;
+  width: 606px;
+  height: 94px;
 }
