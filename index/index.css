@@ -41,9 +41,6 @@
   font-size: 20px;
   width: 600px ;
 }
-#topleft{
-  float: left; padding: 5px;
-}
-#toprite{float: right; padding: 5px;}
-#bottleft{float:left; padding: 5px;}
-#bottrite{float: right; padding: 5px;}
+#topleft{float: left;  margin: 5px; height: 25px;}
+#toprite{float: right;  margin: 5px; height: 25px;}
+#bottleft{float:left;  margin: 5px; }
