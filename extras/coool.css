@@ -1,12 +1,22 @@
 
 #p1{
-    float:left;
-    background-color:#565656;
-    border: 4px solid hsl(199, 77%, 71%); 
-    border-radius: 12px;
-    padding: 5px;
-    font-size: 24px;
-    margin: 100x;}
-    
-    #idklol{width: 2%px;
-        margin: 0px;}
+float:left;
+background-color:#565656;
+border: 4px solid hsl(199, 77%, 71%); 
+border-radius: 12px;
+padding: 5px;
+font-size: 24px;
+}  
+#idklol{
+width: 2%px;
+ margin: 0px;
+}
+#background-color{
+background-color: #505050;
+border: 3px solid #7ccaee;
+p.double {border-style: double;}
+border-radius: 12px;
+padding: 5px;
+float: left;
+width: 370px;
+}

@@ -11,6 +11,12 @@
   padding: 5px;
   font-size: 24px;
 }
+  #maintxt{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float:none
+}
 #par1 {
   background-color: #505050;
   border: 3px solid hsl(199, 77%, 71%);
@@ -27,20 +33,3 @@
   font-size: 20px;
   width: 600px ;
 }
-#maintxt{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float:none
-}
-#top{
-  background-color:#565656;
-  border: 4px solid #505050;
-  border-radius: 12px;
-  padding: 5px;
-  font-size: 20px;
-  width: 600px ;
-}
-#topleft{float: left;  margin: 5px; height: 25px;}
-#toprite{float: right;  margin: 5px; height: 25px;}
-#bottleft{float:left;  margin: 5px; }

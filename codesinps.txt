@@ -7,8 +7,8 @@ HTML
         <script src=""></script>
     <link rel="stylesheet" href="">
     <link rel="stylesheet" href="/comen.css">
+    <link rel="icon" type="image/x-icon" href="/images/gerafics/favicon.ico">
     </head>
-<body style="background-color:#626262;"> 
     <link rel="icon" type="image/x-icon" href="/images/gerafics/favicon.ico">
 <noscript>your browser does not support JavaScript, sir</noscript>
 <div id="primary-nav"> 
