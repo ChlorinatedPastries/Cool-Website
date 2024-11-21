@@ -46,7 +46,7 @@ HTML
 
 CSS
 generic CSS border and junk
-float:right;
+
     background-color:#565656;
     border: 4px solid #505050 or hsl(199, 77%, 71%); 
     border-radius: 12px;
