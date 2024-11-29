@@ -1,7 +1,19 @@
 #tipe {
     height: 70px;
-    width: 1711px;
+    width: 856px;
 }
-#pistats {
-    
+#pi-stats {
+    width: 500px;
+    background-color:#565656;
+    border: 4px solid #505050  ; 
+    border-radius: 12px;
+    padding: 5px;
+    font-size: 24px;
+}
+#find {
+    background-image: url(pi.png);
+    background-repeat: no-repeat;
+    background-size: 870px 75px;
+    height: 80px;
+    width: 875px;
 }
