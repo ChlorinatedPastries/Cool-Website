@@ -17,6 +17,7 @@
   margin-left: auto;
   margin-right: auto;
   font-size: 24px;
+  margin: auto
 }
 #demo{
   display: block;
@@ -46,4 +47,8 @@
     padding: 5px;
     font-size: 24px;
     width:  600px;
+}
+#color {
+  float: left;
+
 }
