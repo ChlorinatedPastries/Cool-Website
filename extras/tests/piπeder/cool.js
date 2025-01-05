@@ -9,7 +9,7 @@ function piValueandcalc(terms) {
     let pi = 0;
 
     for (let k = 0; k < terms; k++) {
-        const term = (1 / Math.pow(16, k)) * (
+        const term = (1 / Math.pow(16, k)) * ( //<--wtf that for lol
             (4 / (8 * k + 1)) -
             (2 / (8 * k + 4)) -
             (1 / (8 * k + 5)) -
