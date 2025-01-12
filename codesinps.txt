@@ -10,7 +10,7 @@ HTML
     <link rel="icon" type="image/x-icon" href="/images/gerafics/favicon.ico">
     </head>
     <body style="background-color: #626262;">
-<noscript>your browser does not support JavaScript, sir</noscript>
+<noscript>You Shoud Enable JavaScript Now!</noscript>
 <div id="primary-nav"> 
     <ul>
       <li><a style="color:#50c5e9" href="/index/news/news.html">NEWS</a></li>
