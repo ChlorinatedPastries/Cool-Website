@@ -1,11 +1,15 @@
 function idklol() {
+    document.getElementById("color").innerHTML = getRandomSentence();   
+}
+
+function getRandomSentence() {
     const fruits = ["Cookies","THE FACTORY MUST GROW","Lorem ipsum dolor sit amet" ,"(defun botsbuildbots () (botsbuildbots))" , "I CENTER DIV EZ YIPPYYYYYYYYYY" , "Hey bro, got any  <I><u><b>UPSHOW</b></u></i>?", "", "Made with the Shapez 2 soundtrack!", "Welcome to the Information Superhighway!",
         "life is MS Paint, MS Paint is life.", ":GD_Normal:" ,"FIRE IN THE HOLE", "WATER ON THE HILL", "ROCK ON THE GROUND", "AREA CONFIRMED", "AIR DETECTED", "BLOOD IN THE BATH", "KIDS AT THE BASEMENT", "WE WORK, TO EARN THE RIGHT TO WORK", "Welcome to the Information Superhighway!" ,"The secret to happiness is --DATA_CORRUPTED--", "<🅱️r>",
         ,"You can't stop progress.", "We're all in it together.", "88888888888888888888888888" , ":sentry:" , "engineer gaming", "Sentry goin up!","Dispenser down!","it starts with","The engineer is engi-here!","moe", "BONK"
-        ,"BOINK","CAUTION: Spinny thing go fast.", "Today is amazing midday!", "test", "I AM I ROBOT, I AM HERE TO TAKE AMICAN JOBS"
+        ,"BOINK","CAUTION: Spinny thing go fast.", "Today is amazing midday!", "test", "BEEP-BOOP, I AM A ROBOT, I HAVE COME TO TAKE AMERICAN JOBS!", "xd is DOMINATING Average Linux user!", "xd is DOMINATING Average Windows user!", "1+1=4137843", "Number 19, mouse in baked beans.", "Theres a spy creeping around here!", "I am a", "xiee xorb",
+        ""
      ];
     const randomIndex = Math.floor(Math.random() * fruits.length);
     const result = fruits[randomIndex];
-    console.log(result);    
-    document.getElementById("color").innerHTML = result   
+    return result;
 }
