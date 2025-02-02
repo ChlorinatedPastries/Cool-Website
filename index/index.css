@@ -54,3 +54,20 @@
   font-size: 36px;
   margin-top: 1px;
 }
+#right-side-junk{
+  float: right;
+}
+#weekly-news{
+  background-color:#565656;
+    border: 4px solid #505050; 
+    border-radius: 12px;
+    padding: 5px;
+    font-size: 24px;
+}
+#stats{
+  background-color:#565656;
+    border: 4px solid hsl(199, 77%, 71%); 
+    border-radius: 12px;
+    padding: 5px;
+    font-size: 24px;
+}
