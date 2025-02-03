@@ -13,7 +13,7 @@ function getRandomSentence() {
         ,"The cake is a lie.","I LOVE CSS","100% Free Range Code!*","*Code may not be free range lol","The Gizmo-gadget-thingamajig.","μ","⺺⑤■⩹ⶺ⍸⛱⮲Ⓘⳕ","ↀ℆℧⅋ℬKKℳⅪⅭⅯↇℂℿ℠⅞⅖⅘ⅾ⅑Ⅳ⅃Ⅲℶⅶ⅛℡ℙↁ℺⅟⅛⅊Ⅺ⅝⅝⅚℥⅊№ⅲ℔ℌℏℝ℘Ⅽ℡⅄ⅢⅮℝ⅗℺ℨⅤ⅂ℐℹⅽ℘ↀ⅙⅘Ⅸ⅍","🅱️","A 3 piece Bicken nugget?","A Large Boke?" ,"And 3 Bhocolate Bhip Bookies?", "weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee","Ctrl+I to continue with Copilot",
         "YEEEEE HEEEEE, HIC-ADDEEEE HEEEEEEEE!!!!!!","Science is Fun","Concentration Enhancing Menu Initialiser...","Comedy = Tragedy + Time","I AM NOT A MORON!","Reconstructing More Science...","This The Part Where He Kills You.","Made with 33.3% Greg, 33.3% Tech and 33.4% New Horizons!","Doc come on man!","this a very Cool-Website indeed","gigafart windows PC","terafart linux PC","Milk + powdered milk = 200% milk.",
         "Theres a spy sappin' my sentry!","You Will Be Baked, And Then There Will Be Cake.","You Will Be Evaluated.","Sentry mode activated.","I'm Different.","YEEEEEEEEEE HAAAAAAAAAAA","jkm","dosdpdpdpddp","Not USB compatible!","Super Duper Ultra Mega Hyper Multi Alpha Meta Extra Über Charge Ready!","idklol()",";lsdfjjkrjj54jfejf,","q","Über Charge Ready!","WE LIVE IN A SOCIETY ahh beat","WE LIVE IN A WORLD OF GOO",
-        "15 engies in red intel.",""
+        "15 engies in red intel.","Held together by hope, dreams and FICSIT duct tape.","The MACHINE is here."
      ];
     const randomIndex = Math.floor(Math.random() * fruits.length);
     const result = fruits[randomIndex];
