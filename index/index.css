@@ -55,6 +55,7 @@
   margin-top: 1px;
 }
 #right-side-junk{
+  width: 600px;
   float: right;
 }
 #weekly-news{
@@ -71,3 +72,4 @@
     padding: 5px;
     font-size: 24px;
 }
+
