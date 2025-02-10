@@ -5,6 +5,7 @@ HTML
     <head>
         <title></title> 
         <script src=""></script>
+        <script src="/commen.js"></script>
     <link rel="stylesheet" href="">
     <link rel="stylesheet" href="/comen.css">
     <link rel="icon" type="image/x-icon" href="/images/gerafics/favicon.ico">

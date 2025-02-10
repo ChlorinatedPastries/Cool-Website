@@ -43,8 +43,8 @@ function RandomNum() {      //im bored so i made this
     const math_con_num2 = add1 - pi - e - phi
     const math_con_num3 = add1 * pi * e * phi
     const math_con_num4 = add1 / pi / e / phi
-    const math_con_num5 = add1 ^ pi ^ e ^ phi
-    const math_con_num6 = add1 ** pi ** e ** phi
+    const math_con_num5 = add1 ^ pi / e ^ phi
+    const math_con_num6 = add1 ** pi / e ** phi
     const math_con_num7 = add1 % pi % e % phi + 1
     const math_con_num8 = add1 + pi - e * phi
     const math_con_num9 = add1 + pi + e + phi
