@@ -16,7 +16,7 @@ function getRandomSentence() {
     "15 engies in red intel.","Held together by hope, dreams and FICSIT duct tape.","The MACHINE is here.","eeeeeeeeeeeeeeeeeeeeeeeeeeeeee","See you on monday!","I am speed.&nbsp;&nbsp;&nbsp; KACHOW","KACHOW","Wake up. Wake up. Wake up. Wake up. Wake up. Wake up. Wake up. ","THE FOG IS COMING. ","AUGUST 12 2036, THE HEAT DEATH OF THE UNIVERSE.","ERR: 413 - TO MUCH BRAINROT IN USER.","The testing begins.",
     "asdasdsadasdasd","<>{}[]","You Will Be Perfect For The Test.","goo goo gaga, i want milk.","dpojwp","i am gaming","dsfkf.,gjxkmlfgkcl","THAT'S A LOT OF DAMAGE","That engineer is a spy!","That Engineer is a gamer!","I am slow.","Shuting down...","As an AI I just cant lol","Satisfactory!","%killername%","Did Cookie Clicker just get a minor update... ITS ALIVEEEEEEE","HalF-LiFe 3 CoNfiRmEd?!","hunger","Yummers!",
     "open the nor","OPEN THE NOR","I'm gona hit the F25 key","F25 key? Are you ready for this? Promise not to tell. I'm gonna hit the f25 key, get ready!","AHH QWERT*&DFRP(IJFHI?SHO:KZPICIKO","𝗦𝗽𝗮𝗴𝗵𝗲𝘁𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗘𝘃𝗲𝗻𝘁 𝗜𝗺𝗺𝗶𝗻𝗲𝗻𝘁.","wasd","1 / 0 = black hole","getRandomSentence","linux","That engineer is gaming!","It's time. To Burn Your House Down!","Rain Rain Windy Windy","Open Source!"
-    ,"gee gorp","Unaproved by the FBI!","Unaproved by the CIA!","i am killer fish from san diego",":","I eat uranium-235 every day.","we snaw","snaw we"
+    ,"gee gorp","Unaproved by the FBI!","Unaproved by the CIA!","i am killer fish from san diego",":","I eat uranium-235 every day.","we snaw","snaw we","i love cookie clicker",""
      ];
     const randomIndex = Math.floor(Math.random() * fruits.length);
     const result = fruits[randomIndex];
