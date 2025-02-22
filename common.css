@@ -1,0 +1,32 @@
+#primary-nav {
+    
+    float:right;
+    background-color:#565656;
+    border: 4px solid #505050;
+    border-radius: 12px;
+    padding: 5px;
+    font-size: 24px;
+}
+#bottom-of-screen{
+    
+    /*background-color: #505050;
+    text-align: center;
+    margin-top: 100px;
+    padding: 12.5px;
+    font-size: 24px;
+    border-style:solid ;
+    border: 4px solid hsl(199, 77%, 71%); 
+    border-top-style: solid;
+  border-right-style: hidden;
+  border-bottom-style: hidden;
+  border-left-style: hidden;
+  min-height:100%;
+  position:relative;
+  */
+}
+#HOME{
+  font-size: 48px; 
+}
+#LI_HAME{
+  list-style-type: none;
+}

@@ -5,9 +5,9 @@ HTML
     <head>
         <title></title> 
         <script src=""></script>
-        <script src="/commen.js"></script>
+        <script src="/common.js"></script>
     <link rel="stylesheet" href="">
-    <link rel="stylesheet" href="/comen.css">
+    <link rel="stylesheet" href="/common.css">
     <link rel="icon" type="image/x-icon" href="/Media/Graphics/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
@@ -59,8 +59,8 @@ radio form
 
 <a>href="https://www.w3schools.com/tags/tag_span.asp" </a>
 </div>
-<link rel="stylesheet" href="/comen.css"><script src="/commen.js"></script>
-<script src="/commen.js"></script>
+<link rel="stylesheet" href="/common.css"><script src="/common.js"></script>
+<script src="/common.js"></script>
 
 CSS
 generic CSS border and junk
