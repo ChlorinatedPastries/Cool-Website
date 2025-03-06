@@ -52,11 +52,6 @@
   font-size: 36px;
   margin-top: 1px;
 }
-#right-side-junk{
-  width: 32.14%;
-  float:right ;
-  margin-top: 1%;
-}
 #weekly-news{
   background-color:#565656;
     border: 4px solid #505050; 
@@ -70,8 +65,13 @@
     border-radius: 12px;
     padding: 5px;
     font-size: 24px;
-}
+}/*side junk*/
 #left-side-junk{
   width: 32.14%;
  
+}
+#right-side-junk{
+  width: 32.14%;
+  float:right ;
+  
 }
