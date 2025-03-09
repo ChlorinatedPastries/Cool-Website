@@ -4,7 +4,7 @@ Here at the <a herf="">Some People Team</a> we are commited to helping everyone 
 ANY restrictions what so ever!
 
 Our Goals to achieve are: <br>
-Privacy, Transparency, Ease of use, %FILL IN%, and Having fun!
+Privacy, Transparency, Ease of use, and Having fun!  
 
 
 

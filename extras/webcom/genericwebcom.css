@@ -1,18 +1,18 @@
 #con-1{
     width: 1700px;
-  height: 900px;
-  background-color: azure;
+  height: 919px;
+  background-color: #555555;
 }
 #con-2{
     margin-top: -4%;
     width: 85%;
-    height: 900px;
-    background-color: darkgoldenrod;
+    height: 910px;
+    background-color: #505050;
     margin-left: 125px;
 
 }
 #con-3{
-    background-color: aqua;
+    background-color: #404040;
     width: 800px;
     height: 900px;
     margin-left: 355px;
@@ -32,6 +32,7 @@ h1{
 
 }
 #chat{
+    margin-top: 20px;
     margin-left: 10%;
     width: 80%;
     height: 80%;
