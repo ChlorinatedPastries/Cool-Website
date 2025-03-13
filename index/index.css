@@ -87,6 +87,6 @@
   border-right-style: hidden;
   border-bottom-style: hidden;
   border-left-style: hidden;
-  position: absolute; bottom: 0; left: 0;
+  position:static; bottom: 0; left: 0;
   width: 97.5%;
 }
