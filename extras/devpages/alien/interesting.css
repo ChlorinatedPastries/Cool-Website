@@ -1,4 +1,32 @@
 #yummers{
     text-align: center;
+    font-size: xx-large;
+}
+#yummers:hover{
+    color: greenyellow;
+}
+
+#gif1{
+    text-align: left;
+}
+
+#Chlorine{
+    text-align: center;
     font-size: x-large;
+    color: honeydew;
+}
+
+#aliencat{
+     text-align: center;
+}
+
+.Chlorine2{
+    text-align: center;
+    font-size: medium;
+}
+
+#funny{
+    background-color: #A9A9A9;
+    border: 4px solid #00FF00;
+    border-radius: 12px;
 }
