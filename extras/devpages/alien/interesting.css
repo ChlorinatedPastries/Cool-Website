@@ -30,3 +30,14 @@
     border: 4px solid #00FF00;
     border-radius: 12px;
 }
+
+
+#button__content{
+    background-color: lightgreen;
+    border: 4px solid;
+    border-radius: 12px;
+    color: white;
+    font-size: xx-large;
+}
+
+
